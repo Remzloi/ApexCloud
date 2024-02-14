@@ -1,0 +1,7 @@
+{
+  "name": "ApexCloud",
+  "start_url": "/pwa/",
+  "lang": "ru-RU",
+  "theme_color": "#000000",
+  "display": "standalone"
+}
